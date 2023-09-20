@@ -9,6 +9,6 @@ by step:
 - [Cookbook: This Flutter sample](https://codelabs.developers.google.com/codelabs/flutter-next-gen-uis#0)
 
 <h1>
-  <img src="https://github.com/hunter350/shaders_example/blob/master/hqdefault1.png" alt="Image" height="250" style="border-radius: 10px;"> </img>
-  <img src="https://github.com/hunter350/shaders_example/blob/master/image_body.jpeg" alt="Image" height="250" style="border-radius: 10px;"> </img>
+  <img src="https://github.com/hunter350/shaders_example/blob/master/hqdefault1.png" alt="Image" height="180" style="border-radius: 10px;"> </img>
+  <img src="https://github.com/hunter350/shaders_example/blob/master/image_body.jpeg" alt="Image" height="180" style="border-radius: 10px;"> </img>
 </h1>
